@@ -1,0 +1,77 @@
+SlNo,Station,Agency,State LGD Code,State,District LGD Code,District,Tehsil,Block,Village,River,Basin,Tributary,Subtributary,SubSubtributary,Local River,Latitude,Longitude,RL_MSL,Data Acquisition Time,Groundwater Level Quarterly Manual (meter),Station_ID,Source,Anomaly_Flag
+1527,Alahalli,CGWB,29,Karnataka,526,Bangalore Rural,KANAKAPURA,KANAKAPURA,Alahalli,-,-,-,-,-,-,12.39166667,77.48333333,,2005-08-25 06:00:00,-0.6,Alahalli_Bangalore Rural_12.39166667_77.48333333,Historical,True
+1528,Alahalli,CGWB,29,Karnataka,526,Bangalore Rural,KANAKAPURA,KANAKAPURA,Alahalli,-,-,-,-,-,-,12.39166667,77.48333333,,2005-11-05 06:00:00,-0.6,Alahalli_Bangalore Rural_12.39166667_77.48333333,Historical,True
+2024,Allety Mevinadka,CGWB,29,Karnataka,534,Dakshin Kannada,SULYA,SULYA,Allety Mevinadka,-,-,-,-,-,-,12.53277778,75.37944444,,2020-01-10 00:00:00,-0.75,Allety Mevinadka_Dakshin Kannada_12.53277778_75.37944444,Historical,True
+2025,Allety Mevinadka,CGWB,29,Karnataka,534,Dakshin Kannada,SULYA,SULYA,Allety Mevinadka,-,-,-,-,-,-,12.53277778,75.37944444,,2020-01-28 06:00:00,-0.75,Allety Mevinadka_Dakshin Kannada_12.53277778_75.37944444,Historical,True
+4288,Anshi,CGWB,29,Karnataka,550,Uttara Kannada,SUPA,SUPA,Anshi,-,-,-,-,-,-,14.9875,74.38333333,,2018-08-20 00:00:00,-0.04,Anshi_Uttara Kannada_14.9875_74.38333333,Historical,True
+8627,Balehonnuru,CGWB,29,Karnataka,532,Chikmagalur,NARASIMHARAJAPURA,NARASIMHARAJAPURA,B.Kanabur,-,-,-,-,-,-,13.35833333,75.46666667,,2005-11-05 06:00:00,-0.7,Balehonnuru_Chikmagalur_13.35833333_75.46666667,Historical,True
+11223,Basavapatna,CGWB,29,Karnataka,539,Hassan,ARKALGUD,ARKALGUD,Basavapatna,-,-,-,-,-,-,12.60833333,76.12083333,,2005-11-05 06:00:00,-0.85,Basavapatna_Hassan_12.60833333_76.12083333,Historical,True
+12739,Belhatti,CGWB,29,Karnataka,537,Gadag,SHIRHATTI,SHIRHATTI,Belhatti,-,-,-,-,-,-,15.11111111,75.62277778,,2005-08-25 06:00:00,-0.7,Belhatti_Gadag_15.11111111_75.62277778,Historical,True
+14135,Bhadravati,CGWB,29,Karnataka,547,Shimoga,BHADRAVATI,BHADRAVATI,Bhadravati,-,-,-,-,-,-,13.85416667,75.70833333,,2005-11-05 06:00:00,-0.7,Bhadravati_Shimoga_13.85416667_75.70833333,Historical,True
+14164,Bhadravati,CGWB,29,Karnataka,547,Shimoga,BHADRAVATI,BHADRAVATI,Bhadravati,-,-,-,-,-,-,13.85416667,75.70833333,,2014-08-25 06:00:00,-0.03,Bhadravati_Shimoga_13.85416667_75.70833333,Historical,True
+14888,Bhatkal,CGWB,29,Karnataka,550,Uttara Kannada,BHATKAL,BHATKAL,Bhatkal,-,-,-,-,-,-,13.98333333,74.55,,2005-11-05 06:00:00,-0.7,Bhatkal_Uttara Kannada_13.98333333_74.55,Historical,True
+17228,B.R.gudi,CGWB,29,Karnataka,538,Kalaburagi,SHAHPUR,SHAHPUR,B.R.gudi,-,-,-,-,-,-,16.72222222,76.70277778,,2003-01-05 06:00:00,-0.6,B.R.gudi_Kalaburagi_16.72222222_76.70277778,Historical,True
+17232,B.R.gudi,CGWB,29,Karnataka,538,Kalaburagi,SHAHPUR,SHAHPUR,B.R.gudi,-,-,-,-,-,-,16.72222222,76.70277778,,2004-11-05 06:00:00,-0.2,B.R.gudi_Kalaburagi_16.72222222_76.70277778,Historical,True
+17256,B.R.gudi,CGWB,29,Karnataka,538,Kalaburagi,SHAHPUR,SHAHPUR,B.R.gudi,-,-,-,-,-,-,16.72222222,76.70277778,,2013-01-05 06:00:00,-0.16,B.R.gudi_Kalaburagi_16.72222222_76.70277778,Historical,True
+21411,Chintamani,CGWB,29,Karnataka,542,Kolar,CHINTAMANI,CHINTAMANI,Chintamani,-,-,-,-,-,-,13.4,78.05833333,,2005-08-25 06:00:00,-0.7,Chintamani_Kolar_13.4_78.05833333,Historical,True
+21412,Chintamani,CGWB,29,Karnataka,542,Kolar,CHINTAMANI,CHINTAMANI,Chintamani,-,-,-,-,-,-,13.4,78.05833333,,2005-11-05 06:00:00,-0.7,Chintamani_Kolar_13.4_78.05833333,Historical,True
+22431,Dandeli,CGWB,29,Karnataka,550,Uttara Kannada,HALIYAL,HALIYAL,Dandeli,-,-,-,-,-,-,15.24166667,74.60833333,,2005-11-05 06:00:00,-0.7,Dandeli_Uttara Kannada_15.24166667_74.60833333,Historical,True
+24891,Dodballapur1,CGWB,29,Karnataka,526,Bangalore Rural,DODBALLAPUR,DODBALLAPUR,Dodballapur,-,-,-,-,-,-,13.30833333,77.54166667,,2005-08-25 06:00:00,-0.7,Dodballapur1_Bangalore Rural_13.30833333_77.54166667,Historical,True
+29373,Goonadka,CGWB,29,Karnataka,534,Dakshin Kannada,SULYA,SULYA,Goonadka,-,-,-,-,-,-,12.51416667,75.49805556,,2019-11-28 06:00:00,-0.2,Goonadka_Dakshin Kannada_12.51416667_75.49805556,Historical,True
+29909,Govt L V Polytechnic,CGWB,29,Karnataka,539,Hassan,HASSAN,HASSAN,Govt L V Polytechnic,-,-,-,-,-,-,13.0125,76.12222222,,2018-05-25 00:00:00,101.16,Govt L V Polytechnic_Hassan_13.0125_76.12222222,Historical,True
+29911,Govt L V Polytechnic,CGWB,29,Karnataka,539,Hassan,HASSAN,HASSAN,Govt L V Polytechnic,-,-,-,-,-,-,13.0125,76.12222222,,2019-05-01 06:00:00,111.51,Govt L V Polytechnic_Hassan_13.0125_76.12222222,Historical,True
+30768,Gudibanda1,CGWB,29,Karnataka,542,Kolar,GUDIBANDA,GUDIBANDA,Gudibanda,-,-,-,-,-,-,13.66666667,77.75,,2005-11-05 06:00:00,-0.95,Gudibanda1_Kolar_13.66666667_77.75,Historical,True
+33328,Halliguli,CGWB,29,Karnataka,537,Gadag,MUNDARGI,MUNDARGI,Halliguli,-,-,-,-,-,-,15.4,75.83333333,,2005-08-25 06:00:00,-1.65,Halliguli_Gadag_15.4_75.83333333,Historical,True
+33775,Hampasandra,CGWB,29,Karnataka,542,Kolar,GAURIBIDANUR,GAURIBIDANUR,Hampasandra,-,-,-,-,-,-,13.66666667,77.425,,2005-11-05 06:00:00,-1.06,Hampasandra_Kolar_13.66666667_77.425,Historical,True
+34986,Haralahalli,CGWB,29,Karnataka,544,Mandya,PANDAVAPURA,PANDAVAPURA,Haralahalli,-,-,-,-,-,-,12.48333333,76.68333333,,2013-08-25 06:00:00,-0.7,Haralahalli_Mandya_12.48333333_76.68333333,Historical,True
+36571,Hebbani PZ,CGWB,29,Karnataka,542,Kolar,MULBAGAL,MULBAGAL,Hebbani,-,-,-,-,-,-,13.2825,78.56666667,,2014-05-15 06:00:00,-0.24,Hebbani PZ_Kolar_13.2825_78.56666667,Historical,True
+38960,Honnali,CGWB,29,Karnataka,535,Davanagere,HONNALI,HONNALI,Honnali,-,-,-,-,-,-,14.24166667,75.65833333,,2013-08-25 06:00:00,-0.08,Honnali_Davanagere_14.24166667_75.65833333,Historical,True
+38961,Honnali,CGWB,29,Karnataka,535,Davanagere,HONNALI,HONNALI,Honnali,-,-,-,-,-,-,14.24166667,75.65833333,,2013-11-05 06:00:00,-0.07,Honnali_Davanagere_14.24166667_75.65833333,Historical,True
+38964,Honnali,CGWB,29,Karnataka,535,Davanagere,HONNALI,HONNALI,Honnali,-,-,-,-,-,-,14.24166667,75.65833333,,2014-08-25 06:00:00,-0.3,Honnali_Davanagere_14.24166667_75.65833333,Historical,True
+38965,Honnali,CGWB,29,Karnataka,535,Davanagere,HONNALI,HONNALI,Honnali,-,-,-,-,-,-,14.24166667,75.65833333,,2014-11-05 06:00:00,-0.14,Honnali_Davanagere_14.24166667_75.65833333,Historical,True
+39966,Hosakere2,CGWB,29,Karnataka,548,Tumkur,MADHUGIRI,MADHUGIRI,Hosakere,-,-,-,-,-,-,13.75,77.2,,2000-11-05 06:00:00,-0.1,Hosakere2_Tumkur_13.75_77.2,Historical,True
+44975,Javagal,CGWB,29,Karnataka,539,Hassan,ARSIKERE,ARSIKERE,Javagal,-,-,-,-,-,-,13.3,76.05833333,,2005-11-05 06:00:00,-0.73,Javagal_Hassan_13.3_76.05833333,Historical,True
+47005,Kaduru,CGWB,29,Karnataka,532,Chikmagalur,KADUR,KADUR,Kaduru,-,-,-,-,-,-,13.55833333,76.01666667,,2005-11-05 06:00:00,-1.0,Kaduru_Chikmagalur_13.55833333_76.01666667,Historical,True
+50277,Kannamangala,CGWB,29,Karnataka,526,Bangalore Rural,CHANNAPATNA,CHANNAPATNA,Kannamangala,-,-,-,-,-,-,12.71666667,77.20833333,,2013-11-05 06:00:00,-0.82,Kannamangala_Bangalore Rural_12.71666667_77.20833333,Historical,True
+55998,Konandur,CGWB,29,Karnataka,547,Shimoga,TIRTHAHALLI,TIRTHAHALLI,Konandur,-,-,-,-,-,-,13.81111111,75.16111111,,2005-11-05 06:00:00,-0.7,Konandur_Shimoga_13.81111111_75.16111111,Historical,True
+60755,Kysamballi,CGWB,29,Karnataka,542,Kolar,BANGARAPET,BANGARAPET,Kysamballi,-,-,-,-,-,-,13.00833333,78.36666667,,2005-08-25 06:00:00,-0.49,Kysamballi_Kolar_13.00833333_78.36666667,Historical,True
+61010,Lakkenahalli,CGWB,29,Karnataka,542,Kolar,BANGARAPET,BANGARAPET,Lakkenahalli,-,-,-,-,-,-,12.96666667,78.26666667,,2005-11-05 06:00:00,-0.8,Lakkenahalli_Kolar_12.96666667_78.26666667,Historical,True
+61059,Lakkenahalli1,CGWB,29,Karnataka,542,Kolar,BANGARAPET,BANGARAPET,Lakkenahalli,-,-,-,-,-,-,12.88055556,78.26666667,,2005-11-05 06:00:00,-0.7,Lakkenahalli1_Kolar_12.88055556_78.26666667,Historical,True
+61095,Lakkundi,CGWB,29,Karnataka,537,Gadag,GADAG,GADAG,Lakkundi,-,-,-,-,-,-,15.39166667,75.71666667,,2005-08-25 06:00:00,-0.7,Lakkundi_Gadag_15.39166667_75.71666667,Historical,True
+61156,Lakshimipura,CGWB,29,Karnataka,542,Kolar,SRINIVASPUR,SRINIVASPUR,Lakshimipura,-,-,-,-,-,-,13.44166667,78.30833333,,2005-11-05 06:00:00,-0.95,Lakshimipura_Kolar_13.44166667_78.30833333,Historical,True
+61196,Lakshmisagara,CGWB,29,Karnataka,542,Kolar,SRINIVASPUR,SRINIVASPUR,Lakshmisagara,-,-,-,-,-,-,13.23888889,78.28333333,,2005-08-25 06:00:00,-0.7,Lakshmisagara_Kolar_13.23888889_78.28333333,Historical,True
+61527,Lingedevarakoppa,CGWB,29,Karnataka,540,Haveri,HIREKERUR,HIREKERUR,Lingedevarakoppa,-,-,-,-,-,-,14.53333333,75.50972222,,2005-08-25 06:00:00,-0.7,Lingedevarakoppa_Haveri_14.53333333_75.50972222,Historical,True
+65253,Mallapur,CGWB,29,Karnataka,537,Gadag,RON,RON,Mallapur,-,-,-,-,-,-,15.675,75.63333333,,2005-08-25 06:00:00,-1.05,Mallapur_Gadag_15.675_75.63333333,Historical,True
+66910,Mannikara,CGWB,29,Karnataka,534,Dakshin Kannada,PUTTUR,PUTTUR,Mannikara,-,-,-,-,-,-,12.67972222,75.33416667,,2020-01-28 06:00:00,-1.3,Mannikara_Dakshin Kannada_12.67972222_75.33416667,Historical,True
+71522,Mulbagal,CGWB,29,Karnataka,542,Kolar,MULBAGAL,MULBAGAL,Mulbagal,-,-,-,-,-,-,13.15,78.4,,2005-11-05 06:00:00,-0.28,Mulbagal_Kolar_13.15_78.4,Historical,True
+72317,Murnad,CGWB,29,Karnataka,541,Kodagu,MADIKERI,MADIKERI,Murnad,-,-,-,-,-,-,12.30833333,75.76666667,,2014-11-05 06:00:00,-0.7,Murnad_Kodagu_12.30833333_75.76666667,Historical,True
+75406,Narasimharajapura,CGWB,29,Karnataka,532,Chikmagalur,NARASIMHARAJAPURA,NARASIMHARAJAPURA,Narasimharajapura,-,-,-,-,-,-,13.68333333,75.525,,2005-11-05 06:00:00,-0.7,Narasimharajapura_Chikmagalur_13.68333333_75.525,Historical,True
+75589,Naregal,CGWB,29,Karnataka,537,Gadag,RON,RON,Naregal,-,-,-,-,-,-,15.59166667,75.80416667,,2005-08-25 06:00:00,-1.04,Naregal_Gadag_15.59166667_75.80416667,Historical,True
+75642,Nargund,CGWB,29,Karnataka,537,Gadag,NARGUND,NARGUND,Nargund,-,-,-,-,-,-,15.71388889,75.37,,2005-08-25 06:00:00,-1.0,Nargund_Gadag_15.71388889_75.37,Historical,True
+76195,Navile,CGWB,29,Karnataka,539,Hassan,ARSIKERE,ARSIKERE,Navile,-,-,-,-,-,-,13.1,76.35833333,,2005-11-05 06:00:00,-0.52,Navile_Hassan_13.1_76.35833333,Historical,True
+77271,Nellyadi,CGWB,29,Karnataka,534,Dakshin Kannada,PUTTUR,PUTTUR,Nellyadi,-,-,-,-,-,-,12.83611111,75.40555556,,2019-11-28 06:00:00,-1.0,Nellyadi_Dakshin Kannada_12.83611111_75.40555556,Historical,True
+77700,Nidagundi1,CGWB,29,Karnataka,537,Gadag,RON,RON,Nidagundi,-,-,-,-,-,-,15.65833333,75.85833333,,2005-08-25 06:00:00,-0.21,Nidagundi1_Gadag_15.65833333_75.85833333,Historical,True
+79887,Pathapalya,CGWB,29,Karnataka,542,Kolar,CHIKBALLAPUR,CHIKBALLAPUR,Nandi,-,-,-,-,-,-,13.45833333,77.69166667,,2005-11-05 06:00:00,-1.02,Pathapalya_Kolar_13.45833333_77.69166667,Historical,True
+81162,Pullotu Addahole,CGWB,29,Karnataka,534,Dakshin Kannada,PUTTUR,PUTTUR,Pullotu Addahole,-,-,-,-,-,-,13.18416667,74.93305556,,2019-11-28 06:00:00,-0.95,Pullotu Addahole_Dakshin Kannada_13.18416667_74.93305556,Historical,True
+83708,Ron,CGWB,29,Karnataka,537,Gadag,RON,RON,Ron,-,-,-,-,-,-,15.73333333,75.75,,2005-08-25 06:00:00,-0.94,Ron_Gadag_15.73333333_75.75,Historical,True
+87243,Settihalli,CGWB,29,Karnataka,547,Shimoga,SHIKARPUR,SHIKARPUR,Settihalli,-,-,-,-,-,-,14.275,75.325,,2005-11-05 06:00:00,-0.7,Settihalli_Shimoga_14.275_75.325,Historical,True
+88168,Sherewad A,CGWB,29,Karnataka,536,Dharwad,HUBLI,HUBLI,Sherewad A,-,-,-,-,-,-,15.25416667,75.17083333,,2020-08-25 00:00:00,-0.23,Sherewad A_Dharwad_15.25416667_75.17083333,Historical,True
+90834,Sindhnur,CGWB,29,Karnataka,546,Raichur,SINDHNUR,SINDHNUR,Sindhnur,-,-,-,-,-,-,15.77777778,76.76527778,,2014-08-25 06:00:00,-0.15,Sindhnur_Raichur_15.77777778_76.76527778,Historical,True
+91511,Sirsi,CGWB,29,Karnataka,550,Uttara Kannada,SIRSI,SIRSI,Sirsi,-,-,-,-,-,-,14.625,74.87361111,,2005-11-05 06:00:00,-0.7,Sirsi_Uttara Kannada_14.625_74.87361111,Historical,True
+1183,Asoka Siddapura_1,CGWB,29,Karnataka,533,Chitradurga,-,-,-,-,-,-,-,-,-,14.8097,76.7931,597.3,2024-01-05 00:00:00,625.0,Asoka Siddapura_1_Chitradurga_14.8097_76.7931,Recent,True
+2233,Bavur,CGWB,29,Karnataka,530,Bijapur,MUDDEBIHAL,MUDDEBIHAL,Bavur,-,-,-,-,-,-,16.44388889,76.25166667,,2022-11-05 00:00:00,-0.45,Bavur_Bijapur_16.44388889_76.25166667,Recent,True
+2268,Begihalli,CGWB,29,Karnataka,525,Bangalore Urban,ANEKAL,ANEKAL,Begihalli,-,-,-,-,-,-,12.79583333,77.60694444,,2024-08-25 00:00:00,-0.12999997,Begihalli_Bangalore Urban_12.79583333_77.60694444,Recent,True
+2793,Bheemanakone,CGWB,29,Karnataka,547,Shivamogga,SAGAR,SAGAR,Bheemanakone,-,-,-,-,-,-,14.10638889,75.07638889,,2024-08-25 00:00:00,-0.43,Bheemanakone_Shivamogga_14.10638889_75.07638889,Recent,True
+4871,Gadag,CGWB,29,Karnataka,537,Gadag,GADAG,GADAG,Gadag,-,-,-,-,-,-,15.425,75.5875,,2024-08-25 00:00:00,-0.099999994,Gadag_Gadag_15.425_75.5875,Recent,True
+5622,G.Ranganahalli Ow Naquim,CGWB,29,Karnataka,548,Tumkur,SIRA,-,-,-,-,-,-,-,-,13.75,76.78,,2023-01-05 00:00:00,128.11,G.Ranganahalli Ow Naquim_Tumkur_13.75_76.78,Recent,True
+5623,G.Ranganahalli Ow Naquim,CGWB,29,Karnataka,548,Tumkur,SIRA,-,-,-,-,-,-,-,-,13.75,76.78,,2023-05-25 00:00:00,133.71,G.Ranganahalli Ow Naquim_Tumkur_13.75_76.78,Recent,True
+5624,G.Ranganahalli Ow Naquim,CGWB,29,Karnataka,548,Tumkur,SIRA,-,-,-,-,-,-,-,-,13.75,76.78,,2023-08-25 00:00:00,128.37,G.Ranganahalli Ow Naquim_Tumkur_13.75_76.78,Recent,True
+5625,G.Ranganahalli Ow Naquim,CGWB,29,Karnataka,548,Tumkur,SIRA,-,-,-,-,-,-,-,-,13.75,76.78,,2023-11-05 00:00:00,132.44,G.Ranganahalli Ow Naquim_Tumkur_13.75_76.78,Recent,True
+5626,G.Ranganahalli Ow Naquim_1,CGWB,29,Karnataka,548,Tumkur,-,-,-,-,-,-,-,-,-,13.7528,76.7836,656.0,2024-01-05 00:00:00,134.6,G.Ranganahalli Ow Naquim_1_Tumkur_13.7528_76.7836,Recent,True
+5627,G.Ranganahalli Ow Naquim_1,CGWB,29,Karnataka,548,Tumkur,-,-,-,-,-,-,-,-,-,13.7528,76.7836,656.0,2024-08-25 00:00:00,132.29999,G.Ranganahalli Ow Naquim_1_Tumkur_13.7528_76.7836,Recent,True
+5645,Gubbi,CGWB,29,Karnataka,548,Tumkur,GUBBI,GUBBI,Gubbi,-,-,-,-,-,-,13.30416667,76.94166667,,2022-01-30 07:00:00,-0.01,Gubbi_Tumkur_13.30416667_76.94166667,Recent,True
+12813,Mitiganahalli,CGWB,29,Karnataka,542,Kolar,KOLAR,KOLAR,Mitiganahalli,-,-,-,-,-,-,12.98861111,78.10027778,,2022-01-30 07:00:00,-0.37,Mitiganahalli_Kolar_12.98861111_78.10027778,Recent,True
+13565,Nagarhunse,CGWB,29,Karnataka,528,Bellary,KUDLIGI,KUDLIGI,Nagarhunse,-,-,-,-,-,-,14.84444444,76.52222222,,2024-08-06 10:00:00,-0.32999998,Nagarhunse_Bellary_14.84444444_76.52222222,Recent,True
+15103,Rangasamudra,CGWB,29,Karnataka,548,Tumkur,PAVAGADA,PAVAGADA,Rangasamudra,-,-,-,-,-,-,14.175,77.0875,,2022-08-25 00:00:00,-0.31,Rangasamudra_Tumkur_14.175_77.0875,Recent,True
+17182,Talya,CGWB,29,Karnataka,533,Chitradurga,HOLALKERE,HOLALKERE,Talya,-,-,-,-,-,-,14.025,76.275,,2022-01-30 07:00:00,-0.82,Talya_Chitradurga_14.025_76.275,Recent,True
+17712,Turuvekere1,CGWB,29,Karnataka,548,Tumkur,TURUVEKERE,TURUVEKERE,Turuvekere,-,-,-,-,-,-,13.16666667,76.66666667,,2023-05-25 00:00:00,1374.0,Turuvekere1_Tumkur_13.16666667_76.66666667,Recent,True
